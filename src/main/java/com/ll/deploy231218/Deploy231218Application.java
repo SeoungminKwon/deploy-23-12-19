@@ -24,7 +24,7 @@ public class Deploy231218Application {
     @GetMapping("/")
     @ResponseBody
     public String showMain() {
-        return "메인입니다 ~~dd^^";
+        return "메인입니fefe다 ~~ddd^^";
     }
 
     @GetMapping("/new")
