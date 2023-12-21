@@ -24,7 +24,7 @@ public class Deploy231218Application {
     @GetMapping("/")
     @ResponseBody
     public String showMain() {
-        return "Main";
+        return "Main Test";
     }
 
     @GetMapping("/new")
