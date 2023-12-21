@@ -12,7 +12,7 @@ class Deploy231218ApplicationTests {
 
     @Test
     void contextLoads() {
-        assertThat(1).isEqualTo(2);
+        assertThat(1).isEqualTo(1);
     }
 
 }
